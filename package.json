@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
-    "build/src"
+    "lib/**/*"
   ],
   "license": "Apache-2.0",
   "keywords": [],
